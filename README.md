@@ -1,1 +1,1 @@
-# typing-speed-gam
+# typing-speed-game
